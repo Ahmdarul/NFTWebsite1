@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x066aFF698cC431Bbc0f9e82fD0ae685dB2DFC5fC",
+  "SCAN_LINK": "https://explorer.dogechain.dog/token/0x066aFF698cC431Bbc0f9e82fD0ae685dB2DFC5fC",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "Doge",
+    "ID": 2000
+  },
+  "NFT_NAME": "Testz",
+  "SYMBOL": "TTZ",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 5100000,
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/0x066aFF698cC431Bbc0f9e82fD0ae685dB2DFC5fC",
+  "SHOW_BACKGROUND": true
+}
